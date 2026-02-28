@@ -64,8 +64,6 @@ Pode ocorrer por:
 - Comprometimento de credenciais
 - Exploração de vulnerabilidades em APIs
 
-Impactos incluem multas regulatórias e danos reputacionais.
-
 ---
 
 ## 3. Regulação e Governança
